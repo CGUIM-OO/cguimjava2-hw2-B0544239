@@ -28,15 +28,7 @@ public class HW2 {
 		}
 	}
 
-	/**
-	 * This method is used for checking your result, not a part of your HW2
-	 * 
-	 * @param allCards
-	 *            ������
-	 * @param nDeck
-	 *            蝮賢��嗾����
-	 * @return
-	 */
+	
 	private static boolean isAllCardsCorrect(ArrayList<Card> allCards, int nDeck) {
 		// check the output
 		boolean isCorrect = true;
@@ -120,12 +112,7 @@ class Card {
 						// Spades=4
 	private int rank;// 1~13
 
-	/**
-	 * @param s
-	 *            suit
-	 * @param r
-	 *            rank
-	 */
+	
 	public Card(int s, int r) {
 		suit = s;
 		rank = r;
