@@ -1,4 +1,4 @@
-package classwork;
+﻿package classwork;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -32,7 +32,7 @@ public class HW2 {
 	 * This method is used for checking your result, not a part of your HW2
 	 * 
 	 * @param allCards
-	 *            �������
+	 *            ������
 	 * @param nDeck
 	 *            蝮賢��嗾����
 	 * @return
