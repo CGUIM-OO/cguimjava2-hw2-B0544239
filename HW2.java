@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 /**
  * @author TODO: please add student ID and name here Try to write some comments
- *         for your codes (methods, 15 points)    黃仕豪Ｂ０５４４２３９
+ *         for your codes (methods, 15 points)    Ｂ０５４４２３９ 黃仕豪
  */
 public class HW2 {
 
